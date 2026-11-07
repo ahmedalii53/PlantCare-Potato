@@ -184,4 +184,4 @@ Confirm the dataset is located at `dataset/Potato/` and that the class folder na
 =======
 # PlantCare-Potato
 PlantCare AI is an AI-powered web application that analyzes potato leaf images to detect plant diseases. It uses deep learning models to classify leaves into three categories: Early Blight, Late Blight, and Healthy. The system also uses Grad-CAM to highlight the important areas in the image that influenced the model's prediction and give the result
->>>>>>> 8aa258b37e0a86f618b188789470910734e44d3a
+>>>>>>> 
